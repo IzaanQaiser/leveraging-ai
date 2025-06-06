@@ -1,6 +1,8 @@
 ### Python for AI/ML Resources:
 1. [HarvardX ML/AI with Python](https://www.edx.org/learn/machine-learning/harvard-university-machine-learning-and-ai-with-python?utm_medium=partner-marketing&utm_source=referral&utm_campaign=harvard&utm_content=pll-course-page-machine-learning-ai-python)
-2. Ask ChatGPT: "Act as an expert AI mentor. I am a beginner-to-intermediate Python programmer and I want to learn Python specifically for machine learning and AI through real-world, hands-on projects and experience-based learning.
+2. Ask ChatGPT:
+
+"Act as an expert AI mentor. I am a beginner-to-intermediate Python programmer and I want to learn Python specifically for machine learning and AI through real-world, hands-on projects and experience-based learning.
 
 Give me:
 	•	A progressive learning path broken into beginner, intermediate, and advanced phases
